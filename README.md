@@ -2,8 +2,6 @@
 
 > Projet réalisé lors de la **Nuit de l'Info 2025** par l'équipe **Le Genou de Tony**.
 
-(https://via.placeholder.com/800x400.png?text=Terminal+NIRD+-+Le+Genou+de+Tony)
-
 ##  Présentation du Sujet
 
 [cite_start]Ce projet répond au défi **"Le Village Numérique Résistant : Comment les établissements scolaires peuvent tenir tête aux Big Tech ?"**[cite: 8].
