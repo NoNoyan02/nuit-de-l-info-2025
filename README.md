@@ -2,8 +2,7 @@
 
 > Projet réalisé lors de la **Nuit de l'Info 2025** par l'équipe **Le Genou de Tony**.
 
-![NIRD Terminal Banner](https://via.placeholder.com/800x400.png?text=Terminal+NIRD+-+Le+Genou+de+Tony)
-*(Remplacer ce lien par une capture d'écran de votre site une fois hébergé)*
+(https://via.placeholder.com/800x400.png?text=Terminal+NIRD+-+Le+Genou+de+Tony)
 
 ##  Présentation du Sujet
 
@@ -45,7 +44,7 @@ Ce projet est conçu pour être ultra-léger et ne nécessite aucune compilation
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/votre-pseudo/projet-nird-2025.git](https://github.com/votre-pseudo/projet-nird-2025.git)
+    git clone [https://github.com/NoNoyan02/nuit-de-l-info-2025.git)
     ```
 2.  **Lancer le projet :**
     * Ouvrez simplement le fichier `index.html` dans n'importe quel navigateur web moderne (Chrome, Firefox, Edge).
