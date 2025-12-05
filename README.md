@@ -4,11 +4,11 @@
 
 ##  Présentation du Sujet
 
-[cite_start]Ce projet répond au défi **"Le Village Numérique Résistant : Comment les établissements scolaires peuvent tenir tête aux Big Tech ?"**[cite: 8].
+Ce projet répond au défi **"Le Village Numérique Résistant : Comment les établissements scolaires peuvent tenir tête aux Big Tech ?"**.
 
-[cite_start]Face à la fin du support de Windows 10 et à l'hégémonie des GAFAM [cite: 10][cite_start], notre application propose une approche ludique pour sensibiliser à la démarche **NIRD** (Numérique Inclusif, Responsable et Durable)[cite: 12].
+Face à la fin du support de Windows 10 et à l'hégémonie des GAFAM ,notre application propose une approche ludique pour sensibiliser à la démarche **NIRD** (Numérique Inclusif, Responsable et Durable).
 
-[cite_start]L'objectif : Prouver qu'une école peut devenir un village résistant, ingénieux et autonome[cite: 11].
+L'objectif : Prouver qu'une école peut devenir un village résistant, ingénieux et autonome.
 
 ##  Le Concept
 
@@ -20,7 +20,7 @@ Nous avons pris le parti d'une **interface immersive "Hacker / Terminal"**. L'ut
     *  **Liberté** (Indépendance technologique)
     *  **Écologie** (Durabilité du matériel)
     *  **Budget** (Coût des licences)
-* [cite_start]**Pédagogie** : Promotion des logiciels libres (Linux, Nextcloud) et du réemploi[cite: 52, 53].
+* **Pédagogie** : Promotion des logiciels libres (Linux, Nextcloud) et du réemploi.
 * **Ambiance Rétro** : Effets sonores visuels (Scanlines CRT, typographie Monospace, code couleur Matrix).
 
 ##  Easter Egg (Bonus Caché)
@@ -57,7 +57,7 @@ Ce projet est conçu pour être ultra-léger et ne nécessite aucune compilation
 
 ##  Licence
 
-[cite_start]Ce projet est sous licence libre, conformément aux règles de la Nuit de l'Info[cite: 17]. Vous êtes libres de le copier, modifier et distribuer.
+Ce projet est sous licence libre, conformément aux règles de la Nuit de l'Info. Vous êtes libres de le copier, modifier et distribuer.
 
 ##  L'Équipe "Le Genou de Tony"
 
